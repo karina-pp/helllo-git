@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 print("Hello, login 3  V2!") 
 =======
@@ -15,3 +16,6 @@ print("Hello, login 3  V2!")
 print("Hello, login 3  V2!") 
 >>>>>>> main
 >>>>>>> login
+=======
+print("Hello, login!") 
+>>>>>>> Stashed changes
