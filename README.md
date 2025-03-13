@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-actializamos el Readme "hello-git"
+Actualizamos el Readme "hello-git"
 
 =======
 hello-git hahahah
